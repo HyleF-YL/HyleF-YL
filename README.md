@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HyleF-YL
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++,java
+
+-  student
+-  currently learning C++,java
 
 
 <!---
