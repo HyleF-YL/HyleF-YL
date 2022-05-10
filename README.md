@@ -1,6 +1,7 @@
-
--  student
--  currently learning C++,java and more
+Hello and welcome on my Github profile !
+-I am an IT Student
+-Currently learning programming with C++, Java and more...
+-Also learning WEB development
 
 
 <!---
